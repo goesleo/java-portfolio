@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Controles de Fluxo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Fundamentos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lacos de Repeticao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/POO" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
